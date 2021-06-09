@@ -11,11 +11,11 @@
 
 » Worked on Several **Data Structures and Algorithms problems.**
 
-» I started writing [Blog posts](https://dev.to/rohitrana) back in April 2021 which now has more than [30,000 friendly readers](https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-312l).
+» I started writing Blog posts back in April 2021 which now has more than [30,000 friendly readers](https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-312l).
 
 » I usually write about Development, Life lessons and the stuff I love.Hopefully, you will find some of them interesting too: https://dev.to/rohitrana
 
-» As I aspire to learn and grow more I'll be diving more under the hood of Full-Stack Development. [Let’s connect and talk more!](https://www.linkedin.com/in/rohit-rana17/)
+» As I aspire to learn and grow more I'll be diving more under the hood of Full-Stack Development.
 
 
 
@@ -56,7 +56,7 @@
 
 » Got 70.17 Percent in [TCS NQT Exam](https://drive.google.com/file/d/10Nn5YTKV0s4orQyoLSOEW7pfEUFJNu18/view?usp=drivesdk) (TCS NQT is an aptitude, logical and reasoning  paper). 
 
-» [Google Digital Unlocked Certification : Fundamental of Digital Marketing 2018.](https://drive.google.com/file/d/10Nn5YTKV0s4orQyoLSOEW7pfEUFJNu18/view?usp=drivesdk)
+» [Google Digital Unlocked Certification : Fundamental of Digital Marketing 2018.](https://drive.google.com/file/d/1Ntl9eoX_GS9It0e6BIYkPBqdfNZJ9t1t/view?usp=drivesdk)
 
 » Secured [5-star Badge at HackerRank](https://www.hackerrank.com/therohit_rana?hr_r=1) for solving C++ problems.
 
