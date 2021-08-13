@@ -3,7 +3,7 @@
 
 ## About Me
 
-» I'm a third-year undergrad pursuing my bachelors in Computer Science from [J.C. Bose University of Science and Technology,YMCA](https://jcboseust.ac.in/). I believe in creating value for people by doing impactful work.
+» I'm a fourth-year undergrad pursuing my bachelors in Computer Science from [J.C. Bose University of Science and Technology,YMCA](https://jcboseust.ac.in/). I believe in creating value for people by doing impactful work.
 
 » I have worked with **React** and **Redux** to implement authentication, managing global states and writing web apps.
 
